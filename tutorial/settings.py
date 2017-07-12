@@ -25,7 +25,7 @@ SECRET_KEY = '%wz=o((i5$nm@e1fl%=s5t@@5d&&=%9+2+f89cty5ou7z=r9t@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['d.macj.fr']
+ALLOWED_HOSTS = ['d.macj.fr', 'localhost']
 
 
 # Application definition
