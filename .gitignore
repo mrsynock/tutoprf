@@ -7,8 +7,8 @@
 *.pyc
 __pycache__/
 local_settings.py
+
 media
-*cpython*
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
@@ -125,4 +125,3 @@ Session.vim
 tags
 
 # End of https://www.gitignore.io/api/vim,django,python
-
